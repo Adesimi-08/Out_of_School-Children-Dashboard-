@@ -4,6 +4,9 @@ Project Overview
 
 A Power BI data analysis project exploring out-of-school children in Nigeria and identifying regional education gaps.
 
+## Dashboard Preview
+
+![Out-of-School Children Dashboard](./lv_0_20260820134452.jpg)
 Project Objective
 
 The project aims to analyse patterns in school-age children, enrolment, and out-of-school children across different regions and education levels in Nigeria.
