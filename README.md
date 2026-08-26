@@ -7,11 +7,12 @@ A Power BI data analysis project exploring out-of-school children in Nigeria and
 ## Dashboard Preview
 
 ![Out-of-School Children Dashboard](./lv_0_20260820134452.jpg)
-Project Objective
+
+# Project Objective
 
 The project aims to analyse patterns in school-age children, enrolment, and out-of-school children across different regions and education levels in Nigeria.
 
-Key Questions
+# Key Questions
 
 - How many school-age children are enrolled in school?
 - How many children are out of school?
@@ -19,14 +20,14 @@ Key Questions
 - Which education levels show the greatest gaps?
 - What insights can the data provide for education planning and intervention?
 
-Tools Used
+# Tools Used
 
 - Power BI
 - Microsoft Excel
 - Data cleaning and transformation
 - Data visualisation
 
-Dashboard
+# Dashboard
 
 The interactive dashboard presents key indicators and allows users to explore the data by:
 
@@ -35,15 +36,15 @@ The interactive dashboard presents key indicators and allows users to explore th
 - State
 - Education level
 
-Key Insights
+# Key Insights
 
 The dashboard highlights variations in out-of-school children across regions and education levels, providing a clearer view of where education access gaps are most significant.
 
-Recommendations
+# Recommendations
 
 The insights from this analysis can support targeted education interventions, resource allocation, and evidence-based planning to improve access to education.
 
-Skills Demonstrated
+# Skills Demonstrated
 
 - Data cleaning
 - Data analysis
@@ -52,8 +53,8 @@ Skills Demonstrated
 - Insight generation
 - Data storytelling
 
-Project Type
+# Project Type
 
-Data Analytics Portfolio Project
+# Data Analytics Portfolio Project
 
-Focus: Education Data & Sustainable Development Goal 4 (Quality Education)
+# Focus: Education Data & Sustainable Development Goal 4 (Quality Education)
