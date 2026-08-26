@@ -55,6 +55,6 @@ The insights from this analysis can support targeted education interventions, re
 
 # Project Type
 
-# Data Analytics Portfolio Project
+ Data Analytics Portfolio Project
 
-# Focus: Education Data & Sustainable Development Goal 4 (Quality Education)
+Focus: Education Data & Sustainable Development Goal 4 (Quality Education)
