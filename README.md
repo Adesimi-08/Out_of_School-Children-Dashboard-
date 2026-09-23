@@ -6,9 +6,11 @@ A Power BI data analysis project exploring out-of-school children in Nigeria and
 
 ## Dashboard Preview
 
-![Out-of-School Children Dashboard](./Screenshot (17).png)
-![Out-of-School Children Dashboard](./Screenshot (18).png)
-![Out-of-School Children Dashboard](./Screenshot (19).png)
+![Out-of-School Children Dashboard](./Screenshot%20%2817%29.png)
+
+![Out-of-School Children Dashboard](./Screenshot%20%2818%29.png)
+
+![Out-of-School Children Dashboard](./Screenshot%20%2819%29.png)
 
 # Project Objective
 
